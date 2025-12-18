@@ -207,7 +207,3 @@ $$\frac{d\mathbf{r}}{ds} = -\frac{\nabla T}{|\nabla T|}$$
 ## License
 
 MIT License
-
-## Author
-
-Generated with Eikonal wave propagation simulation.
